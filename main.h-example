@@ -1,0 +1,4 @@
+#include <xc.h>
+
+// Hee sound (WAV, 8000Hz, 1ch, 8bit)
+const unsigned char wav[] = {0x80,0x7f,0x7e,0x81,...};
